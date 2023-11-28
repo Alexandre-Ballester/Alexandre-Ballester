@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Alexandre-Ballester, senior back-end developer in Porto Alegre - RS - Brasil
+- 👋 Hi, I’m @Alexandre-Ballester, senior backend developer in Porto Alegre - RS - Brasil
+- I prefer c#
 
 
-<!---
-Alexandre-Ballester/Alexandre-Ballester is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
