@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alexandre-Ballester, developer in Porto Alegre - RS - Brasil
+- 👋 Hi, I’m @Alexandre-Ballester, senior back-end developer in Porto Alegre - RS - Brasil
 
 
 <!---
